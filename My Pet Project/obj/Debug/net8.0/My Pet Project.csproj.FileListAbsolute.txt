@@ -1,0 +1,31 @@
+C:\Users\cc1027210\OneDrive - Ozarks Technical Community College\C# Coding\Module 0\My Pet Project\My Pet Project\obj\Debug\net8.0\My Pet Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cc1027210\OneDrive - Ozarks Technical Community College\C# Coding\Module 0\My Pet Project\My Pet Project\obj\Debug\net8.0\My Pet Project.AssemblyInfoInputs.cache
+C:\Users\cc1027210\OneDrive - Ozarks Technical Community College\C# Coding\Module 0\My Pet Project\My Pet Project\obj\Debug\net8.0\My Pet Project.AssemblyInfo.cs
+C:\Users\cc1027210\OneDrive - Ozarks Technical Community College\C# Coding\Module 0\My Pet Project\My Pet Project\obj\Debug\net8.0\My Pet Project.csproj.CoreCompileInputs.cache
+C:\Users\cc1027210\OneDrive - Ozarks Technical Community College\C# Coding\Module 0\My Pet Project\My Pet Project\bin\Debug\net8.0\My Pet Project.exe
+C:\Users\cc1027210\OneDrive - Ozarks Technical Community College\C# Coding\Module 0\My Pet Project\My Pet Project\bin\Debug\net8.0\My Pet Project.deps.json
+C:\Users\cc1027210\OneDrive - Ozarks Technical Community College\C# Coding\Module 0\My Pet Project\My Pet Project\bin\Debug\net8.0\My Pet Project.runtimeconfig.json
+C:\Users\cc1027210\OneDrive - Ozarks Technical Community College\C# Coding\Module 0\My Pet Project\My Pet Project\bin\Debug\net8.0\My Pet Project.dll
+C:\Users\cc1027210\OneDrive - Ozarks Technical Community College\C# Coding\Module 0\My Pet Project\My Pet Project\bin\Debug\net8.0\My Pet Project.pdb
+C:\Users\cc1027210\OneDrive - Ozarks Technical Community College\C# Coding\Module 0\My Pet Project\My Pet Project\obj\Debug\net8.0\My Pet Project.dll
+C:\Users\cc1027210\OneDrive - Ozarks Technical Community College\C# Coding\Module 0\My Pet Project\My Pet Project\obj\Debug\net8.0\refint\My Pet Project.dll
+C:\Users\cc1027210\OneDrive - Ozarks Technical Community College\C# Coding\Module 0\My Pet Project\My Pet Project\obj\Debug\net8.0\My Pet Project.pdb
+C:\Users\cc1027210\OneDrive - Ozarks Technical Community College\C# Coding\Module 0\My Pet Project\My Pet Project\obj\Debug\net8.0\My Pet Project.genruntimeconfig.cache
+C:\Users\cc1027210\OneDrive - Ozarks Technical Community College\C# Coding\Module 0\My Pet Project\My Pet Project\obj\Debug\net8.0\ref\My Pet Project.dll
+C:\Users\cc1027210\OneDrive - Ozarks Technical Community College\C# Coding\Module 0\My Pet Project\bin\Debug\net8.0\My Pet Project.exe
+C:\Users\cc1027210\OneDrive - Ozarks Technical Community College\C# Coding\Module 0\My Pet Project\bin\Debug\net8.0\My Pet Project.deps.json
+C:\Users\cc1027210\OneDrive - Ozarks Technical Community College\C# Coding\Module 0\My Pet Project\bin\Debug\net8.0\My Pet Project.runtimeconfig.json
+C:\Users\cc1027210\OneDrive - Ozarks Technical Community College\C# Coding\Module 0\My Pet Project\bin\Debug\net8.0\My Pet Project.dll
+C:\Users\cc1027210\OneDrive - Ozarks Technical Community College\C# Coding\Module 0\My Pet Project\bin\Debug\net8.0\My Pet Project.pdb
+C:\Users\cc1027210\OneDrive - Ozarks Technical Community College\C# Coding\Module 0\My Pet Project\obj\Debug\net8.0\My Pet Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cc1027210\OneDrive - Ozarks Technical Community College\C# Coding\Module 0\My Pet Project\obj\Debug\net8.0\My Pet Project.AssemblyInfoInputs.cache
+C:\Users\cc1027210\OneDrive - Ozarks Technical Community College\C# Coding\Module 0\My Pet Project\obj\Debug\net8.0\My Pet Project.AssemblyInfo.cs
+C:\Users\cc1027210\OneDrive - Ozarks Technical Community College\C# Coding\Module 0\My Pet Project\obj\Debug\net8.0\My Pet Project.csproj.CoreCompileInputs.cache
+C:\Users\cc1027210\OneDrive - Ozarks Technical Community College\C# Coding\Module 0\My Pet Project\obj\Debug\net8.0\My Pet Project.dll
+C:\Users\cc1027210\OneDrive - Ozarks Technical Community College\C# Coding\Module 0\My Pet Project\obj\Debug\net8.0\refint\My Pet Project.dll
+C:\Users\cc1027210\OneDrive - Ozarks Technical Community College\C# Coding\Module 0\My Pet Project\obj\Debug\net8.0\My Pet Project.pdb
+C:\Users\cc1027210\OneDrive - Ozarks Technical Community College\C# Coding\Module 0\My Pet Project\obj\Debug\net8.0\My Pet Project.genruntimeconfig.cache
+C:\Users\cc1027210\OneDrive - Ozarks Technical Community College\C# Coding\Module 0\My Pet Project\obj\Debug\net8.0\ref\My Pet Project.dll
+C:\Users\colten\OneDrive - Ozarks Technical Community College\C# Coding\Module 0\My Pet Project\obj\Debug\net8.0\My Pet Project.dll
+C:\Users\colten\OneDrive - Ozarks Technical Community College\C# Coding\Module 0\My Pet Project\obj\Debug\net8.0\refint\My Pet Project.dll
+C:\Users\colten\OneDrive - Ozarks Technical Community College\C# Coding\Module 0\My Pet Project\obj\Debug\net8.0\My Pet Project.pdb
