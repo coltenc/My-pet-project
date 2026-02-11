@@ -1,0 +1,14 @@
+C:\Users\colten\Desktop\C# coding\My pet project\My pet project\obj\Debug\net10.0\My pet project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\colten\Desktop\C# coding\My pet project\My pet project\obj\Debug\net10.0\My pet project.AssemblyInfoInputs.cache
+C:\Users\colten\Desktop\C# coding\My pet project\My pet project\obj\Debug\net10.0\My pet project.AssemblyInfo.cs
+C:\Users\colten\Desktop\C# coding\My pet project\My pet project\obj\Debug\net10.0\My pet project.csproj.CoreCompileInputs.cache
+C:\Users\colten\Desktop\C# coding\My pet project\My pet project\bin\Debug\net10.0\My pet project.exe
+C:\Users\colten\Desktop\C# coding\My pet project\My pet project\bin\Debug\net10.0\My pet project.deps.json
+C:\Users\colten\Desktop\C# coding\My pet project\My pet project\bin\Debug\net10.0\My pet project.runtimeconfig.json
+C:\Users\colten\Desktop\C# coding\My pet project\My pet project\bin\Debug\net10.0\My pet project.dll
+C:\Users\colten\Desktop\C# coding\My pet project\My pet project\bin\Debug\net10.0\My pet project.pdb
+C:\Users\colten\Desktop\C# coding\My pet project\My pet project\obj\Debug\net10.0\My pet project.dll
+C:\Users\colten\Desktop\C# coding\My pet project\My pet project\obj\Debug\net10.0\refint\My pet project.dll
+C:\Users\colten\Desktop\C# coding\My pet project\My pet project\obj\Debug\net10.0\My pet project.pdb
+C:\Users\colten\Desktop\C# coding\My pet project\My pet project\obj\Debug\net10.0\My pet project.genruntimeconfig.cache
+C:\Users\colten\Desktop\C# coding\My pet project\My pet project\obj\Debug\net10.0\ref\My pet project.dll
